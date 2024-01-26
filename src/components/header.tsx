@@ -1,0 +1,1 @@
+export const Header = () => (<header><a href="/">Default Context</a> | <a href="/mantine">Mantine Context</a></header>)
